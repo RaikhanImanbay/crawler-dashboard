@@ -1,0 +1,29 @@
+[
+    {
+    "id": 6,
+    "crawlerName": "Riigiteataja",
+    "status": "Active",
+    "unchecked": 500,
+    "minuteRequests": 10,
+    "hourRequests": 100,
+    "dayRequests" : 5000
+    },
+    {
+    "id": 6,
+    "crawlerName": "Gamma",
+    "status": "Active",
+    "unchecked": 500,
+    "minuteRequests": 10,
+    "hourRequests": 100,
+    "dayRequests" : 5000
+    },
+    {
+    "id": 6,
+    "crawlerName": "Intelligence",
+    "status": "Active",
+    "unchecked": 500,
+    "minuteRequests": 10,
+    "hourRequests": 100,
+    "dayRequests" : 5000
+    }
+]
